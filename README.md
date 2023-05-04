@@ -27,18 +27,10 @@
 2. 抽象遵从 硬件--操作系统--应用程序 架构,所有的硬件只负责自己的工作,应用程序的指令都通过syscall请求操作系统去完成.
 
 ### Usage
-'''
+```python
 pip3 install pygame
-
 sudo apt install sox
-
 git clone git@github.com:Lonelytravelor/Python-CHIP8.git
-
 cd Python-CHIP8-Emulator
-
 python3 chip8.py games/<Your game>
-'''
-```紧跟着可以写上用的什么语言，也可以不用写。
-int a = 1;
-int b = 2;
-```结尾与开头一样
+```python
