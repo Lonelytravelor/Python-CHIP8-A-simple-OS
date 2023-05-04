@@ -31,6 +31,6 @@
 pip3 install pygame
 sudo apt install sox
 git clone git@github.com:Lonelytravelor/Python-CHIP8.git
-cd Python-CHIP8-Emulator
+cd Python-CHIP8
 python3 chip8.py games/<Your game>
 ```
