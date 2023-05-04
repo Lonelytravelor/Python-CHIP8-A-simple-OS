@@ -38,3 +38,7 @@ cd Python-CHIP8-Emulator
 
 python3 chip8.py games/<Your game>
 '''
+```紧跟着可以写上用的什么语言，也可以不用写。
+int a = 1;
+int b = 2;
+```结尾与开头一样
