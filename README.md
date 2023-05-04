@@ -33,4 +33,4 @@ sudo apt install sox
 git clone git@github.com:Lonelytravelor/Python-CHIP8.git
 cd Python-CHIP8-Emulator
 python3 chip8.py games/<Your game>
-```python
+```
