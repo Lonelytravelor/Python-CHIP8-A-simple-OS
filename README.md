@@ -12,6 +12,7 @@
 
 ### 包含部分:
 在这个程序中主要是包含了以下几个部分  
+![架构](https://user-images.githubusercontent.com/45996923/236101953-884f97f3-eee4-41db-8d74-dea85c89f7c0.png)  
 - **硬件**:  
   - 屏幕:负责渲染图像  
   - Memory:内存,存储数据,支持读写  
