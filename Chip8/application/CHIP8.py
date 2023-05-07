@@ -2,7 +2,7 @@ import sys
 
 import pygame
 
-from Chip8.OS import OS
+from OperationSystem.OS import OS
 
 """
     类:应用程序:/games/...的文件们则是应用程序的一种,实际上是指令的集合

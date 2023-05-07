@@ -2,10 +2,10 @@ import sys
 
 import pygame
 
-from CPU import CPU
-from Keyboard import Keyboard
-from Memory import Memory
-from Screen import Screen
+from hardware.cpu.CPU import CPU
+from hardware.Keyboard import Keyboard
+from hardware.Memory import Memory
+from hardware.Screen import Screen
 
 """
     类：模拟操作系统，完成各个部分的协调，包括从给CPU发送指令，内存中读取数据，通知屏幕显示信息等等

@@ -1,7 +1,7 @@
 """
     类：模拟内存，仿真内存，使得CPU可以访问内存中的数据，支持读写初始化等
 """
-from Chip8.Font import Font
+from application.Font import Font
 
 
 class Memory:

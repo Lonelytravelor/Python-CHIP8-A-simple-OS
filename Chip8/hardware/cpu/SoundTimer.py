@@ -1,5 +1,5 @@
 import os
-from DelayTimer import DelayTimer
+from hardware.cpu.DelayTimer import DelayTimer
 
 
 class SoundTimer(DelayTimer):

@@ -1,8 +1,8 @@
 import random
-from Register import Register
-from SoundTimer import SoundTimer
-from DelayTimer import DelayTimer
-from Stack import Stack
+from hardware.cpu.Register import Register
+from hardware.cpu.SoundTimer import SoundTimer
+from hardware.cpu.DelayTimer import DelayTimer
+from hardware.cpu.Stack import Stack
 
 
 """
